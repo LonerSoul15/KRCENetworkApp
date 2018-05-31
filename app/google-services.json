@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1096882860632",
+    "firebase_url": "https://earning-farming.firebaseio.com",
+    "project_id": "earning-farming",
+    "storage_bucket": "earning-farming.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096882860632:android:c6eebaf034161fee",
+        "android_client_info": {
+          "package_name": "com.earningforming.earningforming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096882860632-hhurd8125gqlpfgebqof9su5dfgsnvpm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.earningforming.earningforming",
+            "certificate_hash": "b08e5ff551cdb4523f81a91f3052c3798796a8e3"
+          }
+        },
+        {
+          "client_id": "1096882860632-mfdrgaft4n72u12ud9ou9bklcpcq5r6a.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1096882860632-mfdrgaft4n72u12ud9ou9bklcpcq5r6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhEc383aWidQJ7RFYDT5cSKgTaluXsuxo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096882860632-mfdrgaft4n72u12ud9ou9bklcpcq5r6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
